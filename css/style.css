@@ -117,13 +117,13 @@ a:active {
 }
 
 .primary-content {
-	padding-top: 25px;
+  padding-top: 25px;
   padding-bottom: 95px;
 }
 
 .secondary-content {
-	padding-top: 80px;
-	padding-bottom: 70px;
+  padding-top: 80px;
+  padding-bottom: 70px;
   border-bottom: 2px solid #dfe2e6;
 }
 
@@ -156,7 +156,7 @@ a:active {
   max-width: 960px;
 }
 
-.wildlife {
+.storify {
   color: white;
   text-align: left;
   padding: 18% 24%;
@@ -176,16 +176,16 @@ a:active {
 
 /* Floated Columns ------------------ */
 
-.resorts,
-.tips {
+.audio-visual,
+.blogs {
   width: 46.5%;
 }
 
-.tips {
+.blogs {
   float: left;
 }
 
-.resorts {
+.audio-visual {
   float: right;
 }
 
@@ -204,7 +204,7 @@ a:active {
   .secondary-content {
     width: 90%;
   }
-  .wildlife {
+  .storify {
     padding: 10% 12%;
     margin: 50px 0 20px;
   }
@@ -237,8 +237,8 @@ a:active {
   .intro {
     font-size: 1rem;
   }
-  .resorts,
-  .tips {
+  .audio-visual,
+  .blogs {
     float: none;
     width: 100%;
   }
